@@ -1,5 +1,3 @@
-package PracticeOne;
-
 public class BoundedStack implements Stack {
     private int capacity;
     private int elements[];
